@@ -11,3 +11,21 @@ a = 10
 b = 3.14
 c = "数据工程"
 d = True
+```
+## 3.列表
+```python
+my_list=[1,2,3,4]
+```
+## 4.dictionary
+```python
+my_dict=["name":"ming","age":"18"]
+```
+### 5.for if else
+```python
+for i in range(3):
+print(i)
+if a>5:
+  print("a>5")
+else:
+  print("a!>5")
+```
